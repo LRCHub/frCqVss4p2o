@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "さめない",
+  "base_artist": "笹川真生",
+  "createdAt": "2025-12-28T16:28:38.200161Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さめない",
+      "artist": "笹川真生",
+      "has_synced": false,
+      "path": "select/pl_01_さめない_笹川真生.txt"
+    }
+  ]
+}
